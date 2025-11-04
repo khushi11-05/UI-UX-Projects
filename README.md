@@ -1,28 +1,51 @@
+# 🎨 UI/UX Design Portfolio — Khushi Prajapati
 
-# Harmoniq — UI/UX Design (Figma)
+Welcome to my **UI/UX Design Portfolio**, featuring selected design projects created using **Figma**.  
+Each project includes high-fidelity mockups, interactive prototypes, and a focus on user-centered design.
 
-## Overview  
-**Harmoniq** is a mobile application concept focused on enhancing the music discovery and listening experience through a minimal, user-friendly interface.  
-The project emphasizes intuitive navigation, vibrant visuals, and smooth user interactions to provide an engaging and aesthetically pleasing user experience.
+---
 
-##  My Role  
-**UI/UX Designer**  
-- Designed all app screens, interactions, and components using **Figma**.  
-- Created the visual design system, color palette, and typography hierarchy.  
-- Developed wireframes and prototypes to validate user flows and interface behavior.  
+## 🧠 Projects
 
-##  Key Design Focus  
-- **User Flows:** Structured task flows to ensure seamless navigation.  
-- **Wireframing:** Low to high-fidelity designs demonstrating feature evolution.  
-- **Prototyping:** Clickable Figma prototype for interaction testing.  
-- **Design System:** Consistent layout grid, iconography, and component styling.
+### 🎵 [Harmoniq](./Harmoniq)
+**Overview:**  
+A music discovery and listening app focused on clean visuals and intuitive navigation.  
+**Role:** UI/UX Designer — designed all screens and prototype interactions.  
+**Tools:** Figma  
 
-##  Tools Used  
-- **Figma** — for wireframing, prototyping, and visual design  
-- **Notion** — for brainstorming and documentation (optional mention if used)
+[View Design](https://www.figma.com/design/tmfhrSx2crEHKAyInWfN4q/Harmoniq?node-id=0-1)  
+[View Prototype](https://www.figma.com/proto/tmfhrSx2crEHKAyInWfN4q/Harmoniq?node-id=0-1)
 
-##  Live Figma Project  
-👉 [View the full Figma design here](https://www.figma.com/design/tmfhrSx2crEHKAyInWfN4q/Harmoniq?node-id=0-1)
+---
 
-### 💡 Summary  
-Harmoniq demonstrates the complete UI/UX design workflow — from ideation and wireframing to final high-fidelity prototypes — showcasing proficiency in **Figma** and a strong understanding of design thinking principles.
+### 🍽️ [Food Recipes App](./Food-Recipes)
+**Overview:**  
+A recipe browsing and management app designed for smooth discovery and organization of dishes.  
+**Role:** UI/UX Designer — created layout, user flow, and prototype in Figma.  
+**Tools:** Figma  
+
+[View Design](https://www.figma.com/design/MiBYNWDVFu1VkBqvzlDU8Y/Food-recipes?node-id=0-1)  
+[View Prototype](https://www.figma.com/proto/MiBYNWDVFu1VkBqvzlDU8Y/Food-recipes?node-id=0-1)
+
+---
+
+### 🎉 [Event Planning App](./Event-Planning)
+**Overview:**  
+A mobile app for event planning and coordination, focused on ease of scheduling and collaboration.  
+**Role:** UI/UX Designer — designed wireframes, visual system, and clickable prototype.  
+**Tools:** Figma  
+
+[View Design](https://www.figma.com/design/Xn1OJAk7ENW0VVUblBGUPJ/Event-planning?node-id=0-1)  
+▶️ [View Prototype](https://www.figma.com/proto/Xn1OJAk7ENW0VVUblBGUPJ/Event-planning?node-id=0-1)
+
+---
+
+## 🧰 Tools & Skills
+- **Figma** – Wireframing, prototyping, and interface design  
+- **Design Thinking** – User-centered design approach  
+- **Information Architecture & User Flows**  
+- **Visual Design** – Layout, color theory, typography  
+
+---
+
+✨ *This repository serves as a showcase of my UI/UX design process — from concept to interactive prototypes.*
