@@ -36,7 +36,7 @@ A mobile app for event planning and coordination, focused on ease of scheduling 
 **Tools:** Figma  
 
 [View Design](https://www.figma.com/design/Xn1OJAk7ENW0VVUblBGUPJ/Event-planning?node-id=0-1)  
-▶️ [View Prototype](https://www.figma.com/proto/Xn1OJAk7ENW0VVUblBGUPJ/Event-planning?node-id=0-1)
+[View Prototype](https://www.figma.com/proto/Xn1OJAk7ENW0VVUblBGUPJ/Event-planning?node-id=0-1)
 
 ---
 
